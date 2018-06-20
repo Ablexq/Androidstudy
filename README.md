@@ -43,6 +43,14 @@
 [Android动画：献上一份详细 & 全面的动画知识学习攻略
 ](https://juejin.im/entry/5b173096e51d4506c95ebb1f?utm_source=gold_browser_extension)
 
+[Android 动画总结](https://www.jianshu.com/p/420629118c10)
+
+[Android 动画实战](https://www.jianshu.com/p/d2e06a2e65ad)
+
+[Android 动画各种实现，包括帧动画、补间动画和属性动画的总结分享](https://github.com/REBOOTERS/AndroidAnimationExercise)
+
+
+
 自定义view实例：
 ==
 [可拖拽item来交换位置的GridView](https://github.com/yuqirong/DragGridView)
@@ -152,6 +160,7 @@ banner:
 
 [AndroidDevTools](http://www.androiddevtools.cn/)
 
+[Android Studio 个性主题](https://juejin.im/post/58ea37ae0ce46300586427b6)
 
 
 实战项目：
