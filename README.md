@@ -53,6 +53,12 @@
 
 自定义view实例：
 ==
+
+
+[android自定义view 一些实例的讲解](https://blog.csdn.net/column/details/wingscustomview.html)
+
+[ItemTouchHelper实现可拖拽和侧滑的列表](https://juejin.im/post/5a7c40325188254e76179bbc)
+
 [可拖拽item来交换位置的GridView](https://github.com/yuqirong/DragGridView)
 
 [LemonITCN/LemonBubble4Android 对话框](https://github.com/LemonITCN/LemonBubble4Android)
@@ -100,6 +106,10 @@
 [MarkMjw/PullToRefresh](https://github.com/MarkMjw/PullToRefresh)
 
 [仿qq、京东、汽车之家、淘宝等下拉刷新](https://github.com/dalong982242260/PullRefresh)
+
+[仿IOS水滴下拉刷新](https://github.com/THEONE10211024/WaterDropListView)
+
+
 
 banner:
 ===
