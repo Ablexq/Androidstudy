@@ -54,6 +54,8 @@
 自定义view实例：
 ==
 
+[自定义View,实现小米指南针和时钟](https://github.com/ChaosOctopus/ChaosCompass)
+
 
 [android自定义view 一些实例的讲解](https://blog.csdn.net/column/details/wingscustomview.html)
 
