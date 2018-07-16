@@ -164,6 +164,7 @@ banner:
 ===
 
 [我所经历的Android面试](https://juejin.im/post/5ab7a9cd6fb9a028c812d24b)
+[Java知音:java高级面试题及答案](https://juejin.im/user/5ae7bd92518825672033d907/posts)
 
 
 
@@ -197,6 +198,85 @@ android7.0：
 ](https://github.com/honjane/fileProviderDemo)
 
 [chaychan/AndroidNAdaption](https://github.com/chaychan/AndroidNAdaption)
+
+
+
+高级工程师进阶：
+====
+
+[你和高级工程师的差距在哪儿？](https://juejin.im/post/5a3926656fb9a0451544035a)
+
+[Android 开发者该如何进阶？](https://juejin.im/post/59b541795188257e8822dfd9)
+
+[Android 进阶路线（思维导图）](https://juejin.im/post/59c3cdfbf265da065476d12d)
+
+[85篇技术好文助你Android进阶](https://juejin.im/post/5a1c30cd51882561a20a33d9)
+
+[android学习资料整理-----高级篇](https://blog.csdn.net/hollow12384/article/details/52318894)
+
+[依然范特稀西](https://juejin.im/user/56949a9960b2e058a42be0ba/posts)
+
+进阶高级开发的
+三大瓶颈之一：自定义 View
+	使⽤ onDraw() 来绘制内容
+	绘制⽂字的技巧和注意事项，⼿写 TextView、MaterialEditText
+	SquareImageView、绘制图⽚和图形的技巧和注意事项
+	千年模糊概念：Bitmap 和 Drawable 的本质、关系、区别、使⽤与详解
+	范围裁切和集合变换、硬件加速、⼿写⼀个仿 Flipboard 界面
+	属性动画的原理及实现、通过⾃定义属性动画来简单实现复杂效果
+	定制 View 的尺⼨、定制 Layout 的布局，⼿写 LinearLayout，手写高性能的 TagLayout
+	触摸反馈原理：背后的流水线机制
+	点击事件源码解析和手写点击触发器
+	长按事件源码解析和⼿写长按触发器
+	父 View 与⼦ View：滑动、事件拦截与拒绝拦截
+	⼿写 ScrollView、双⽅向的 ScrollView
+	⻓按事件源码解析、长按触发器、长按拖拽
+
+三大瓶颈之二：网络。HTTP、TCP/IP、Socket，请求、授权、缓存、长连接，等等
+	HTTP 原理与整体概念
+	Android 中 HTTP 的基本使⽤⽅式
+	Android 和 HTML 中使⽤ HTTP 的联系和差异
+	header 与几种常⽤的 header
+	HTTP 中几种 method 的定义与本质区别
+	REST 到底是什么
+	cache 的作⽤、原理与正确使用
+	cookie 的作用、原理与正确使用
+	OAuth 的原理与实现
+	HTTPS 与 TLS
+	从 Retrofit 的原理实现来看 HTTP
+	从 OkHttp 的原理实现来看 HTTP
+	避免挖坑：与后端团队商讨 Web 接⼝的思路和与讨论方式
+	填坑：Web 接⼝已经做好但不符合 HTTP 标准，客户端使⽤ Retrofit 完全无法处理，怎么 办
+	TCP/IP、Socket 和⻓连接
+
+三大瓶颈之三：线程。Thread、AsyncTask、Handler，以及其他各种名词的概念、原理与关系
+	Thread、Runnable 和 ANR
+	优先级、AsyncTask、Handler、HandlerThread、Looper、Executor
+	Callable 和 Future
+	线程池
+	Service 和 IntentService
+	RxJava
+	
+Git：学好 Git，进了大公司后同事也会高看你
+	分布式版本控制系统的概念和用途
+	Git 与 GitHub 的基本使⽤：发布和管理自⼰的开源项目
+	团队项⽬中使用 Git
+	模拟：团队开发中使用 git
+	Feature Branching：HEAD、master、branch、merge、conflicts
+	模拟：Feature Branching
+	特殊需求与常⻅意外的处理：Git 的进阶与高级使用：rebase、reset、checkout 以及每个 Git 指令的本质
+
+Gradle：Gradle 的使用是合格 Android 工程师的基本素养
+	Groovy 语法
+	Gradle 和 Gradle Android Plugin
+	Gradle Android Plugin 总体结构
+	使用 Gradle 配置项⽬及优化 build 过程
+	自⼰编写 Gradle Plugin
+
+架构：
+插件化与热更新原理
+
+
 
 
 
