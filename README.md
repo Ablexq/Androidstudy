@@ -214,6 +214,8 @@ android7.0：
 
 [android学习资料整理-----高级篇](https://blog.csdn.net/hollow12384/article/details/52318894)
 
+[你和高级工程师的差距在哪里？](https://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650662141&idx=1&sn=c39a36bac276190b29b009b401284a82#rd)
+
 [依然范特稀西](https://juejin.im/user/56949a9960b2e058a42be0ba/posts)
 
 进阶高级开发的
