@@ -13,9 +13,6 @@
 
 
 
-
-
-
 性能分析及优化
 ===
 
@@ -218,7 +215,8 @@ android7.0：
 
 [依然范特稀西](https://juejin.im/user/56949a9960b2e058a42be0ba/posts)
 
-进阶高级开发的
+进阶高级开发
+```
 三大瓶颈之一：自定义 View
 	使⽤ onDraw() 来绘制内容
 	绘制⽂字的技巧和注意事项，⼿写 TextView、MaterialEditText
@@ -233,8 +231,10 @@ android7.0：
 	父 View 与⼦ View：滑动、事件拦截与拒绝拦截
 	⼿写 ScrollView、双⽅向的 ScrollView
 	⻓按事件源码解析、长按触发器、长按拖拽
+```
 
 三大瓶颈之二：网络。HTTP、TCP/IP、Socket，请求、授权、缓存、长连接，等等
+```
 	HTTP 原理与整体概念
 	Android 中 HTTP 的基本使⽤⽅式
 	Android 和 HTML 中使⽤ HTTP 的联系和差异
@@ -250,16 +250,20 @@ android7.0：
 	避免挖坑：与后端团队商讨 Web 接⼝的思路和与讨论方式
 	填坑：Web 接⼝已经做好但不符合 HTTP 标准，客户端使⽤ Retrofit 完全无法处理，怎么 办
 	TCP/IP、Socket 和⻓连接
+```
 
 三大瓶颈之三：线程。Thread、AsyncTask、Handler，以及其他各种名词的概念、原理与关系
+```
 	Thread、Runnable 和 ANR
 	优先级、AsyncTask、Handler、HandlerThread、Looper、Executor
 	Callable 和 Future
 	线程池
 	Service 和 IntentService
 	RxJava
+```
 	
 Git：学好 Git，进了大公司后同事也会高看你
+```	
 	分布式版本控制系统的概念和用途
 	Git 与 GitHub 的基本使⽤：发布和管理自⼰的开源项目
 	团队项⽬中使用 Git
@@ -267,17 +271,20 @@ Git：学好 Git，进了大公司后同事也会高看你
 	Feature Branching：HEAD、master、branch、merge、conflicts
 	模拟：Feature Branching
 	特殊需求与常⻅意外的处理：Git 的进阶与高级使用：rebase、reset、checkout 以及每个 Git 指令的本质
-
+```
 Gradle：Gradle 的使用是合格 Android 工程师的基本素养
+```	
 	Groovy 语法
 	Gradle 和 Gradle Android Plugin
 	Gradle Android Plugin 总体结构
 	使用 Gradle 配置项⽬及优化 build 过程
 	自⼰编写 Gradle Plugin
+```
 
 架构：
+```
 插件化与热更新原理
-
+```
 
 
 
